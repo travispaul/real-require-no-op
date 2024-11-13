@@ -1,0 +1,19 @@
+{
+  "name": "real-require-no-op",
+  "version": "0.2.0",
+  "description": " Can be used to override the real-require module while using --disallow-code-generation-from-strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travispaul/real-require-no-op.git"
+  },
+  "author": "tr@vispaul.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/travispaul/real-require-no-op/issues"
+  },
+  "homepage": "https://github.com/travispaul/real-require-no-op#readme"
+}
